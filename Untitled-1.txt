@@ -1,0 +1,14 @@
+HTTP/2 204 No Content
+Date: Thu, 20 Mar 2025 02:41:34 GMT
+Cf-Ray: 9231d9ef586d61ee-MRS
+Cf-Cache-Status: DYNAMIC
+Access-Control-Allow-Origin: https://uat-bugbounty.nonprod.syfe.com
+Cache-Control: no-store
+Set-Cookie: X-SV-Locale=en-SG; Path=/; Secure; HttpOnly
+Strict-Transport-Security: max-age=31536000; includeSubDomains; preload
+Vary: Origin, Accept-Encoding
+Access-Control-Allow-Credentials: true
+Access-Control-Expose-Headers: Server-Timing
+Server-Timing: traceparent;desc="00-d9d4926cce586eaaaac6321a87ff05a9-a3b6c8fc9d5e0fee-01"
+X-Content-Type-Options: nosniff
+Server: cloudflare
